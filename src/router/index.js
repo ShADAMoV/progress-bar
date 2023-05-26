@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import DHome from '@/components/1pages/DHome.vue';
+import DHome from '@/components/pages/DHome.vue';
 
 
 const router = createRouter({

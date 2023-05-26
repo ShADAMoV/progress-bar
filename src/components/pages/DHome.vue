@@ -1,5 +1,5 @@
 <script setup>
-import DProgressBar from '@/components/2widgets/DProgressBar.vue';
+import DProgressBar from '@/components/widgets/DProgressBar.vue';
 </script>
 
 <template>
