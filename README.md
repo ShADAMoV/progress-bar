@@ -1,38 +1,12 @@
 # progress-bar
 
-Project setup
-# yarn
-yarn
+Инструкции по запуску и эксплуатации:
 
-# npm
-npm install
+Установка:
+1) клонируем репозиторий;
+2) перейдя в проект, в консоль вводим "npm install" (если у вас другой устоновщик пакетов, то меняем на него (yarn install));
+3) запускаем в консоли команду "npm run dev" и кликаем по появившейся ссылке (история с установщиками пакетов, такая же как в пункте 2);
 
-# pnpm
-pnpm install
-Compiles and hot-reloads for development
-# yarn
-yarn dev
-
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-Compiles and minifies for production
-# yarn
-yarn build
-
-# npm
-npm run build
-
-# pnpm
-pnpm build
-Lints and fixes files
-# yarn
-yarn lint
-
-# npm
-npm run lint
-
-# pnpm
-pnpm lint
+Комментарии:
+1) имеющийся функционал реализован в течении 3 часов;
+2) имеющийся функционал, должен дать полную картину моего опыта, за сим, не видел рациональным дальше реализовывать функционал.
